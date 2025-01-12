@@ -11,3 +11,5 @@ I am aiming to release before the 20th of January. Being an infamous lgbtq cyber
 After that, I am headed to Greenland to fight the incoming American invasion with my armies of polar bears, hahaha. Get fckt losers.
 
 It is funny, in these last 6 months, only my Chinese friend has been trying to help me out and showed respect. I enjoyed talking to my Chinese friend, it made these last 6 months a little less desperate and lonely.. to feel like atleast someone still valued my work and my legacy. I think I would have loved to see China and meet the people there. Alas time is running out and moves have to be made now. Good luck.
+
+All I wanted was some god damn respect.
