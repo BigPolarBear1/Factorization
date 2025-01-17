@@ -1,4 +1,6 @@
 # Factorization
+
+Edit: Go to hell fuckers. Yea, it works, fuck you, I'll give my Chinese friends an heads-up, fucking disrespecting pieces of shit.
 Releasing soon..
 
 Next iteration of my algorithm. Uses gaussian elimination instead of LLL. Releasing this month.
