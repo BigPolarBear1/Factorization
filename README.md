@@ -1,7 +1,7 @@
 # Factorization
 
 Edit: Go to hell fuckers. Yea, it works, fuck you, I'll give my Chinese friends an heads-up, fucking disrespecting pieces of shit.
-Releasing soon..
+
 
 Next iteration of my algorithm. Uses gaussian elimination instead of LLL. Releasing this month.
 It builds on my previous work and will provide a massive improvement.. it should be much much faster then quadratic sieve as it improves that algorithm in every way.
