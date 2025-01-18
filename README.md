@@ -1,6 +1,6 @@
 # Factorization
 
-Edit: Go to hell fuckers. Yea, it works, fuck you, I'll give my Chinese friends an heads-up, fucking disrespecting pieces of shit.
+Edit: Fuck this industry. Ill gladly die soon. But first I will finish this. I figured it out for real. It works. Im finalizing the code. Nobody believed in me and everyone just laughed... it works, it figured it out, and you can all go to hell.
 
 
 Next iteration of my algorithm. Uses gaussian elimination instead of LLL. Releasing this month.
