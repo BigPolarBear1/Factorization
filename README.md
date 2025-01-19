@@ -1,5 +1,7 @@
 # Factorization
 
+You should start hearing the final boss music very soon... haha.. this will work once the code is done in the coming days. There is literally no reason for it not to work. Its just residue math. The fact I can do gaussian elimination over snall prime fields, means I can reduce the amount of residue combinations, and the same time, completely elimination combinations, thus with each round of gaussian elimination over different prime fields I can keep shrinking the solution set.. shouldnt have fired my manager. This is for my manager.
+
 Edit2: Fucking americans harassing me again. I will publish my work next week (week of the 20th). It's time. I warned people, over and over again. I tried. Good luck assholes. Found a way to eliminate coefficient solutions to quadratic congruences without it implying knowledge of the global solution using gaussian elimination and some of the stuff I theorized in my previous paper.. people dont understand the implications of this yet.. but they will soon enough... i warned you, nothing more I could have done.
 
 Edit: Fuck this industry. Ill gladly die soon. But first I will finish this. I figured it out for real. It works. Im finalizing the code. Nobody believed in me and everyone just laughed... it works, i figured it out, and you can all go to hell.
