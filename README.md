@@ -1,5 +1,7 @@
 # Factorization
 
+Edit3: Guess the bullshit is motivating me to finish my work. Found a burst of focus again. As I am working out the details in code, I am now 100% convinced that this is it. It will work as I envisioned and at this pace it will most definitely be ready in the next couple of days. People think im some mentally unstable fool, but they too will see soon enough. Nearly 2 years of work, almost there now.
+
 Its funny, bc everyone thinks Im just some insane loser. Despite my previous work.. there's not a single person in the world right now taking my attempt on factorization serious. Not one. But it's a matter of days nows.. I guess I do write alot of monologues like an insane person.. I used to be around friends and have people to talk to, but you all took that away fron me.
 
 You should start hearing the final boss music very soon... haha.. this will work once the code is done in the coming days. There is literally no reason for it not to work. Its just residue math. The fact I can do gaussian elimination over small prime fields, means I can reduce the amount of residue combinations to mod p, and at the same time, completely eliminate combinations, thus with each round of gaussian elimination over different prime fields I can keep shrinking the solution set.. I had been trying an approach like this for months now, but it wasnt until I explored gaussian elimination that I figured out how to actually do it without pitfalls. shouldnt have fired my manager. This is for my manager.
