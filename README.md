@@ -1,5 +1,7 @@
 # Factorization
 
+Edit2: Fucking americans harassing me again. I will publish my work next week (week of the 20th). It's time. I warned people, over and over again. I tried. Good luck assholes.
+
 Edit: Fuck this industry. Ill gladly die soon. But first I will finish this. I figured it out for real. It works. Im finalizing the code. Nobody believed in me and everyone just laughed... it works, i figured it out, and you can all go to hell.
 
 
