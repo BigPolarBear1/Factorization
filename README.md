@@ -1,6 +1,6 @@
 # Factorization
 
-Edit 4: After making more progress, I am now entirely convinced that this is it. This is the big one. Anything happens to me between now and disclosure, it was not an accident or suicide. It works. It fucking works. I am nervous. It is probably good people think im just crazy. Nothing came stop this. This has to happen.
+Edit 4: After making more progress, I am now entirely convinced that this is it. This is the big one. Anything happens to me between now and disclosure, it was not an accident or suicide. It works. It fucking works. I am nervous. It is probably good people think im just crazy. Nothing cam stop this. This has to happen.
 
 Edit3: Guess the bullshit is motivating me to finish my work. Found a burst of focus again. As I am working out the details in code, I am now 100% convinced that this is it. It will work as I envisioned and at this pace it will most definitely be ready in the next couple of days. People think im some mentally unstable fool, but they too will see soon enough. Nearly 2 years of work, almost there now.
 
