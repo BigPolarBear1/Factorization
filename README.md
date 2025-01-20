@@ -1,5 +1,7 @@
 # Factorization
 
+Edit 4: After making more progress, I am now entirely convinced that this is it. This is the big one. Anything happens to me between now and disclosure, it was not an accident or suicide. It works. It fucking works. I am nervous. It is probably good people think im just crazy. Nothing came stop this. This has to happen.
+
 Edit3: Guess the bullshit is motivating me to finish my work. Found a burst of focus again. As I am working out the details in code, I am now 100% convinced that this is it. It will work as I envisioned and at this pace it will most definitely be ready in the next couple of days. People think im some mentally unstable fool, but they too will see soon enough. Nearly 2 years of work, almost there now.
 
 Its funny, bc everyone thinks Im just some insane loser. Despite my previous work.. there's not a single person in the world right now taking my attempt on factorization serious. Not one. But it's a matter of days nows.. I guess I do write alot of monologues like an insane person.. I used to be around friends and have people to talk to, but you all took that away fron me.
