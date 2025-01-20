@@ -1,5 +1,7 @@
 # Factorization
 
+Edit 5: Anyway, time to stop these monologues. It is still a lot of work to get it all ready for publication, even though I have already hit a point where I have a rudimentary proof of concept that demonstrates my ideas beyond the shadow of a doubt. That part is finished now. Next stop is getting everything ready for release. It will happen for sure before the end of the month. Although I prefer sooner rather then later, as I have no doubt people would love to prevent disclosure, by force if needed. I am kind of in disbelieve it has seemed impossible to be taken serious.. I don't think I will feel very sorry for full disclosure considering that fact.. and also just after everything that has happened. I have done enough signaling. I have done all I could have done. I really really fucking tried. Good luck.
+
 Edit 4: After making more progress, I am now entirely convinced that this is it. This is the big one. Anything happens to me between now and disclosure, it was not an accident or suicide. It works. It fucking works. I am nervous. It is probably good people think im just crazy. Nothing cam stop this. This has to happen.
 
 Edit3: Guess the bullshit is motivating me to finish my work. Found a burst of focus again. As I am working out the details in code, I am now 100% convinced that this is it. It will work as I envisioned and at this pace it will most definitely be ready in the next couple of days. People think im some mentally unstable fool, but they too will see soon enough. Nearly 2 years of work, almost there now.
