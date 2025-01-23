@@ -1,4 +1,6 @@
 # Factorization
+Edit 12: It is kind of depressing not a single person takes my work seriously. All I have to go on, is my own believe in myself. A lot of days, that is very hard. Still, burning a bunch of research on github is not what I would have prefered. But I have 0 alternatives. Hence we go forward.. unafraid of consequence.
+
 
 Edit 11: I had another insight just now. This is it. Its still a massive amount of work for all the code to be ready. A lot of refactoring and optimizing left. But the math checks out and I know this is it. I feel immense stress and time pressure to finish this asap and get it out into the public domain. Right now I have the benefit nobody takes me serious, but I have no doubt people would use violence to either stop my work or acquire it. I dont care much about my own safety, but I do care about my family's safety.
 
