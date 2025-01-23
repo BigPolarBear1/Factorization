@@ -1,5 +1,7 @@
 # Factorization
 
+Edit 11: I had another insight just now. This is it. Its still a massive amount of work for all the code to be ready. A lot of refactoring and optimizing left. But the math checks out and I know this is it. I feel immense stress and time pressure to finish this asap and get it out into the public domain. Right now I have the benefit nobody takes me serious, but I have no doubt people would use violence to either stop my work or acquire it. I dont care much about my own safety, but I do care about my family's safety.
+
 edit 10: Fuck I am nervous and stressed. I am either on the brink of a massive breakthrough in the next few days or on the brink of absolute ruin. The math checks out, I know this will be it. Before the end of the week I will know for sure.
 
 edit 9: The algorithm is finished now in code (i.e it can factor arbitrary semiprimes). It does seem to work without any unforeseen pitfalls. Now I will need to spent the rest of the week optimizing everything. There is an awful lot of moving parts, lots of indexing. Right now I'm using iterative search on a lot of places, which I'll need to replace with binary search, trees or mappings. The core ideas work and should resolve my main bottleneck with factorization.. it's just pure software engineering starting tomorrow. I like doing the math, but it requires such intensive focus and deep thinking for days, I am very tired now. I do expect this to work better then any of my previous attempts, we'll see in a few days.
