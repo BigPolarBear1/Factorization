@@ -1,6 +1,6 @@
 # Factorization
 
-Its kind of funny, the amount of accidental finds bc of "vague intuition" but not really being able to articulate why in the last two years that led me down this path.. I feel like a god damn idiot trying random shit and stumbling on something cool every now and thing. But it seems to work, so I'm not going to second guess it.. results are all that matters. I don't give a fuck about "academic rigor" and all that fucking shit that people accuse me of not having. It's fucking results that matter. And I will deliver results very soon.
+Its kind of funny, the amount of accidental finds bc of "vague intuition" but not really being able to articulate why in the last two years that led me down this path.. I feel like a god damn idiot trying random shit and stumbling on something cool every now and then. But it seems to work, so I'm not going to second guess it.. results are all that matters. I don't give a fuck about "academic rigor" and all that fucking shit that people accuse me of not having. It's fucking results that matter. And I will deliver results very soon.
 
 FUCK, I don't understand why gaussian elimination is so effective in this scenario. I wish I had more fucking time to actually think about this instead of having to rush out a PoC like my life depended on it, which in fact, it probably does, bc I will kill myself soon if nothing changes. There is 0 dignity anymore in my current life. 
 
