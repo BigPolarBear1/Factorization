@@ -1,6 +1,6 @@
 # Factorization
 
-Almost now.. so close. Soo very close. Most of the refactoring to use tree data structure with hashmaps is ready now. A few more bug fixes and optimizations, and that should be it. It's really that fucking gaussian elimination that's doing something that I don't entirely understand.. but it works super well.
+Almost now.. so close. Soo very close. Most of the refactoring to use tree data structure with hashmaps is ready now. A few more bug fixes and optimizations, and that should be it. It's really that fucking gaussian elimination that's doing something that I don't entirely understand.. but it works super well. My work pace is kind of shit though, a few hours every day.. it's just a lot of tedious coding and after a few hours I feel completely burned out on it. It's not a sprint though, it's a marathon.. and either way, I am about to cross the finish line any day now.
 
 Its kind of funny, the amount of accidental finds bc of "vague intuition" but not really being able to articulate why in the last two years that led me down this path.. I feel like a god damn idiot trying random shit and stumbling on something cool every now and then. But it seems to work, so I'm not going to second guess it.. results are all that matters. I don't give a fuck about "academic rigor" and all that fucking shit that people accuse me of not having. It's fucking results that matter. And I will deliver results very soon.
 
