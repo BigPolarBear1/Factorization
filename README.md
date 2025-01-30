@@ -10,8 +10,8 @@ Or:
 Remote work that allows me to work from one of the above countries.
 I am also willing to do remote work for Asian companies, but at the time I am still hoping to either be close to my former friends again (Canada) or move close to the Arctic circle since it's my favorite place in the world.
 
-I'll link my CV here too soon.
+My CV: https://docs.google.com/document/d/1gK-7ce5okRNb3EEVYnlqMi2U_5RDiPXx/edit?usp=sharing&ouid=104222251203143732850&rtpof=true&sd=true
 
 In addition I will be releasing my Math project soon on this github page.
 
-ps: Get a life stalker, stop sending me emails. Still achieved more in life then you ever will. Jealous idiot.
+ps: Get a life stalker, stop sending me emails. Still achieved more in life then you ever will. Jealous idiot. I am logging all your emails and will file a complaint with law enforcement if you don't stop. 7 years now, what is wrong with you?
