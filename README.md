@@ -8,7 +8,7 @@ Nordic countries, Iceland or Canada
 Or:
 
 Remote work that allows me to work from one of the above countries.
-I am also willing to do remote work for Asian companies, but at the time I am still hoping to either be close to my former friends again (Canada) or move to close to the Arctic circle since it's my favorite place in the world.
+I am also willing to do remote work for Asian companies, but at the time I am still hoping to either be close to my former friends again (Canada) or move close to the Arctic circle since it's my favorite place in the world.
 
 I'll link my CV here too soon.
 
