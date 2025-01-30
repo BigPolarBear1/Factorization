@@ -13,3 +13,5 @@ I am also willing to do remote work for Asian companies, but at the time I am st
 I'll link my CV here too soon.
 
 In addition I will be releasing my Math project soon on this github page.
+
+ps: Get a life stalker, stop sending me emails. Still achieved more in life then you ever will. Jealous idiot.
