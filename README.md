@@ -3,8 +3,7 @@ I will start sending out my CV in the coming days, because I need to get out of 
 
 Looking for work in :
 
--Nordic countries or Iceland.
--Canada
+Nordic countries, Iceland or Canada
 
 Or:
 
