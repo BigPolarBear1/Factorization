@@ -1,7 +1,4 @@
-Note: I am looking to sell my work on factorization. If interested, I can give you the specs of my airgapped machine which I use for research and performance bench marks of my algorithm. And if interested, I will also need security, because in my current situation, there is none, my home country is a bunch of amateurs who don't know what they are doing or dealing with, I need to get out of this place asap.
-
-Just narrowly avoided the worst today. But I do not have faith in the Belgian system.
-I will start sending out my CV in the coming days, because I need to get out of this place, rebuild my life again.
+Note: I am looking to sell my work on factorization. If interested, I can give you the specs of my airgapped machine which I use for research and performance bench marks of my algorithm. And if interested, I will also need security, because in my current situation, there is none, my home country is a bunch of amateurs who don't know what they are doing or dealing with, I need to get out of this place asap. Email in CV below, send me a pgp key and I will sent you mine.
 
 Looking for work in :
 
