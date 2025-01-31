@@ -1,3 +1,6 @@
+Just the irony if it all. I dont need much. I dont want to be rich. It would cost a country literally nothing to pay me for my research. Not even a dent in your budgets. For over a year I have been saying this. I told the FBI a year ago I was working on this. And ever since, I have been telling everyone. I got treated like im insane, worthless, clueless.. you are all walking into the biggest strategic mistake of your lifes. And I dont feel happy about it, I feel sad, bc I lost so much while working on this. And nothing is going to bring those things back.
+
+
 I know exactly why I am treated this way. Despite being one of the most competent researchers in infosec. Its bc of who I am. People cant stand people like me succeeding in life. They rather I dissappear in mental institutes. Right now, I will move to Russia if they show interest in my work and can garantuee security. Im tired of being humiliated this way, especially by my home country. I will leave this place permanently one way or another.
 As a matter of fact. I am willing to tear up my Belgian passport, renounce my citizenship and get a passport in another country. I am serious. I am very angry, bc I have been telling people to take my work serious for over a year, and nothing happened.
 
