@@ -1,6 +1,6 @@
 FINAL NOTE: You have 2 weeks (until mid february) to make me an offer.
 
-I am basically finished. I however, cannot keep sitting on research like this, because without any form of security in a country that seems more intend on having me comitted ot a mental hospital then taking me serious, it's only inviting disaster.
+I am basically finished. I however, cannot keep sitting on research like this, because without any form of security in a country that seems more intend on having me comitted to a mental hospital then taking me serious, it's only inviting disaster.
 Not just for me, but also for the people I am currently living with.
 
 2 weeks. I do not care who makes an offer. If I do not receive any offers after two weeks, my work goes public. That's the end of that.
